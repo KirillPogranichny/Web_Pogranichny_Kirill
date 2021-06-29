@@ -372,6 +372,7 @@
 	padding: 10px 41px;
 }
 footer {
+	font-family: Roboto-Regular;
 	background-color: #000000;
 	color: #ffffff;
 }
@@ -425,6 +426,13 @@ footer {
 	width: 492px;
 	margin-right: 117px;
 }
+.template {
+	font-size: 18px;
+	line-height: 28px;
+	text-align: center;
+	letter-spacing: 0.25px;
+	color: rgba(255, 255, 255, 0.5);
+}
 .footer_form button {
 	font-weight: bold;
 	font-size: 18px;
@@ -436,13 +444,6 @@ footer {
 	width: 155px;
 	background: #00c805;
 	border-radius: 24px;
-}
-.footer_form p {
-	font-size: 18px;
-	line-height: 28px;
-	text-align: center;
-	letter-spacing: 0.25px;
-	color: rgba(255, 255, 255, 0.5);
 }
 .footer_list {
 	display: flex;
